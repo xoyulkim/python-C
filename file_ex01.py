@@ -3,6 +3,6 @@
 
 f=open('file_ex01.txt','w')
 
-f.write('파이썬 파일 기록은 쉽다')
+f.write('파이썬 파일 기록은 쉽다.')
 
 f.close()
