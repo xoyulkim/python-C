@@ -9,7 +9,6 @@ int main()
     int sum=0;
 
     cnt=0;
-    sum=0;
     while (cnt<3){
         printf("정수를 입력하세요: ");
         scanf("%d", &num);
