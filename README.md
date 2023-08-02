@@ -1,2 +1,2 @@
-# python0802
+# python&C
 모두의 파이썬
